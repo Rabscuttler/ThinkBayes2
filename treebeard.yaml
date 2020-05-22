@@ -1,3 +1,4 @@
 ignore:
   - .git
-  - .DS_store
+  - 
+  - solutions/lions_tigers_bears.ipynb
