@@ -10,6 +10,7 @@ dependencies:
   - pip
   - pip:
     - empiricaldist
+    - -e /thinkbayes2
 
 
 
