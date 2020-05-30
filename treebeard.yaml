@@ -1,7 +1,7 @@
 ignore:
   - .git
   - solutions/lions_tigers_bears.ipynb
-schedule:
-  - daily        
+schedule: daily
+
     
 
