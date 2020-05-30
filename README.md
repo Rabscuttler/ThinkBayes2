@@ -183,3 +183,4 @@ might start in your home directory or somewhere else in your file
 system, so you might have to navigate to find the `ThinkBayes2` directory.
 
 I hope these instructions help you get started easily.  Please let me know if there is anything I can do to improve them.
+.
